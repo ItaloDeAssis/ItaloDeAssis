@@ -6,8 +6,8 @@ Minha Foto](URL_da_minha_foto  -->
 Sou um desenvolvedor apaixonado por tecnologia, e estou constantemente em busca de novos desafios para melhorar minhas habilidades. Trabalho com as seguintes tecnologias:
 
 - Linguagens de Programação: JavaScript, Python, Java
-- Front-end: HTML, CSS
-- Back-end: Django
+- Frontend: HTML, CSS
+- Backend: Django
 - Banco de Dados: MySQL
 - Outras Ferramentas: Git, VS Code
 
