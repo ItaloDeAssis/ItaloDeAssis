@@ -11,11 +11,6 @@ Sou um desenvolvedor apaixonado por tecnologia, e estou constantemente em busca 
 - Banco de Dados: MySQL
 - Outras Ferramentas: Git, VS Code
 
-## Projetos em Destaque
-
-- [Projeto 1](URL_do_Projeto1): Em breve.
-- [Projeto 2](URL_do_Projeto2): Em breve.
-
 ## Contato
 
 - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/theboyitalo/)
